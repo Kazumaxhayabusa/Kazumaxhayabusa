@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kazumaxhayabusa
+- 👀 I live in ohtawara city,tochigi profecture japan.
+- I like movie especially like STAR WARS.
+- I like music too.Nizi-U is very much.
