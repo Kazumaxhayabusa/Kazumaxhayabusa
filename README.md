@@ -5,11 +5,11 @@
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://lit.link/sasamistreet20240603" width="28"> Hi there
+## 👋 Hi there
 
 - 🏫 I'm a Vocational school students.
 - 🌱 I’m currently learning Python!
--  🚃 I like railway!
+- 🚃 I like railway!
 <br>
 
 
