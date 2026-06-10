@@ -1,32 +1,32 @@
 <!-- 1. GitHub ユーザー名を変更 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=NonokaM" />
+  <img src="https://komarev.com/ghpvc/?username=Kazumaxhayabusa" />
 </div>
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+## <img src="https://lit.link/sasamistreet20240603" width="28"> Hi there
 
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
+- 🏫 I'm a Vocational school students.
+- 🌱 I’m currently learning Python!
+-  🚃 I like railway!
 <br>
 
 
 <!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
+<!-- ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,python" />
 <br>
 
 
 <!-- 4. GitHub ユーザー名を変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
+<!--ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=NonokaM&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonokaM&theme=vue-dark&layout=compact" />
+<div align="left">
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kazumaxhayabusa=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazumaxhayabusa=vue-dark&layout=compact" />
 </div>
 
 
